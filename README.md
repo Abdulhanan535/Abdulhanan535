@@ -149,7 +149,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma.vercel.app/api?username=Abdulhanan535&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulhanan535&theme=tokyonight&hide_border=true" height="165" />
 </p>
 

@@ -40,14 +40,50 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>swem_addon</h3>
+      <p>A Forge 1.20.1 addon for SWEM horses: daily grooming points, compatibility toggles, and a written testing spec.</p>
+      <p><img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>NewApp — AI Video Automation</h3>
+      <p>Full-stack ComfyUI automation: FastAPI, Celery, Redis and SQLite behind a React SPA, with drop-in JSON workflow presets.</p>
+      <p><img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>AlterEgo</h3>
       <p>A fast AI roleplay and storytelling interface built with Bun, TypeScript and Preact. Works with any OpenAI-compatible API.</p>
       <p><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></p>
     </td>
     <td width="50%" valign="top">
+      <h3>glm-5.3-reap</h3>
+      <p>An end-to-end pipeline that prunes GLM-5.3-Flash into FP8 on one Jetson AGX Thor, with NVFP4 and GGUF export paths.</p>
+      <p><img alt="CUDA" src="https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>GlimrAI Editor</h3>
       <p>Product docs, the “Quiet Pixel” design system, and a working interactive prototype for a prompt-first video editor.</p>
       <p><img alt="Design" src="https://img.shields.io/badge/-Design-7B68EE?style=flat-square&logo=figma&logoColor=white" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>ComfyUI-QwenTTS</h3>
+      <p>A ComfyUI node pack for Qwen3-TTS with CustomVoice, VoiceDesign and VoiceClone across CUDA, MPS and CPU.</p>
+      <p><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>PC Build Store</h3>
+      <p>A Java 17 Swing desktop app for picking components with real-time compatibility filtering, billing and receipts, backed by MariaDB.</p>
+      <p><img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>AntColony</h3>
+      <p>A Minecraft mod built in MCreator around ant-colony gameplay.</p>
+      <p><img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /></p>
     </td>
   </tr>
   <tr>
@@ -60,6 +96,18 @@
       <h3>Eureka</h3>
       <p>Archimedes Ships-style vessels for Minecraft, built on Valkyrien Skies 2.</p>
       <p><img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-A97BFF?style=flat-square&logo=kotlin&logoColor=white" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>craft_magica_beta</h3>
+      <p>A Minecraft Forge mod in beta, built with MCreator.</p>
+      <p><img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>SillyTavern-SD-Async</h3>
+      <p>Asynchronous Stable Diffusion integration for SillyTavern.</p>
+      <p><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></p>
     </td>
   </tr>
 </table>

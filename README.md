@@ -146,6 +146,16 @@
 
 ---
 
+### Projects
+
+- **Spare**: A cash-first expense tracker for students. Flutter and Firebase, offline-first, with a self-hosted `llama.cpp` insight on top.
+- **AlterEgo**: A fast AI roleplay and storytelling interface built with Bun, TypeScript and Preact. Works with any OpenAI-compatible API.
+- **GlimrAI Editor**: Product docs, the "Quiet Pixel" design system, and a working interactive prototype for a prompt-first video editor.
+- **Drydock**: Lightweight static ships for Minecraft Forge 1.20.1 — baked ship entities and walkable decks.
+- **Eureka**: Archimedes Ships-style vessels for Minecraft, built on Valkyrien Skies 2.
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
